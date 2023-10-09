@@ -53,7 +53,9 @@
 
 می‌توانید از منابع زیر برای مطالعه ساختمان‌داده‌های زبان‌های برنامه‌نویسی استفاده کنید.
 https://www.baeldung.com/java-collections-complexity
+
 https://en.cppreference.com/w/cpp/container/list
+
 https://cplusplus.com/reference/list/
 ## نکات تکمیلی :
 + این تمرین باید بصورت فردی پیاده سازی شود.
