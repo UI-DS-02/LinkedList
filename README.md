@@ -1,5 +1,5 @@
 <div dir='rtl' align="center">
-به نام پروردگار هدایت کننده به راه راست
+به‌نام خدای رنگین‌کمان
 
   دانشگاه اصفهان
 
@@ -25,25 +25,15 @@
 <div dir='rtl' align="left">
 
 + size(): Returns the number of elements in the list
-
 + isEmpty(): Returns True if the list is empty
-
 + first(): Returns the first element.
-
 + last(): Returns the last element.
-
 + addFirst(e): Adds a new elemenet to the front of the list.
-
 + addLast(e): Adds a new element to the end of the list.
-
 + removeFirst(): Removes and returns the first element of the list.
-
 + removeLast(): Removes and returns the last element of the list.
-
 + sort(): Sort elements 
-
 + add(i, e): Adds a new element to the i-th position of the list.
-
 + remove(i): Removes and returns the i-th element of the list.
 
 <div dir='rtl' align="right">
@@ -54,14 +44,16 @@
 
 
 ### گام آخر:
-تحلیل خود را در یک فایل در کنار کدهای خود در همین ریپازیتوری آپلود کنید.
+تحلیل خود را در یک فایل pdf در کنار کدهای خود در همین ریپازیتوری آپلود کنید.
 تحلیل شما باید شامل موارد زیر باشد:
 + به دست آوردن پیچیدگی زمانی (اردر) توابع هر دو نسخه و مقایسه با یکدیگر.
-+ به دست آوردن زمان دقیق هر یک از توابع در هر دو نسخه به ازای یک مثال مشخص و مقایسه با یکدیگر.
++ به دست آوردن زمان اجرا دقیق هر یک از توابع در هر دو نسخه به ازای یک مثال مشخص و مقایسه با یکدیگر.
+
+توجه کنید که درباره هر یک از موارد تحلیل‌شده باید توضیح کوتاهی داشته باشید.
 
 
 ## نکات تکمیلی :
-+ این تمرین بصورت گروه‌های دو نفری باید پیاده سازی شود.
++ این تمرین باید بصورت فردی پیاده سازی شود.
 + بستر پیاده سازی پروژه روی گیت‌هاب می‌باشد.
 + استفاده از زبان‌های غیر از Cpp, Java و مجاز نیست.
 
