@@ -26,18 +26,32 @@
 <div dir='rtl' align="left">
 
 + size(): Returns the number of elements in the list
+  + size
 + isEmpty(): Returns True if the list is empty
+  + isEmpty
 + first(): Returns the first element.
+  + first
 + last(): Returns the last element.
+  + last
 + addFirst(e): Adds a new elemenet to the front of the list.
+  + addFirst e 
 + addLast(e): Adds a new element to the end of the list.
+  + addLast e 
 + removeFirst(): Removes and returns the first element of the list.
+  + removeFirst
 + removeLast(): Removes and returns the last element of the list.
-+ sort(): Sort elements 
+  + removeLast 
++ sort(): Sort elements
+  + sort
 + add(i, e): Adds a new element to the i-th position of the list.
+  + add i e 
 + remove(i): Removes and returns the i-th element of the list.
+  + remove i
++ get(i): Returns the i-th element of the list.
+  + get i
 
 <div dir='rtl' align="right">
+توجه کنید که توابع شما باید از طریق دستوراتی که زیر هر تابع نوشته شده قابل دسترسی باشند.
 
 ### گام دوم:
 درباره لینک‌لیست دو طرفه در زبان برنامه‌نویسی Java (معادل LinkedList) و زبان برنامه‌نویسی Cpp (معادل list) مطالعه کنید و آن‌ها را مورد بررسی قرار دهید.
