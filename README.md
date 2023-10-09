@@ -52,14 +52,19 @@
 توجه کنید که درباره هر یک از موارد تحلیل‌شده باید توضیح کوتاهی داشته باشید.
 
 می‌توانید از منابع زیر برای مطالعه ساختمان‌داده‌های زبان‌های برنامه‌نویسی استفاده کنید.
+<div dir='rtl' align="left">
+
 https://www.baeldung.com/java-collections-complexity
 
 https://en.cppreference.com/w/cpp/container/list
 
 https://cplusplus.com/reference/list/
+<div dir='rtl' align="right">
+
 ## نکات تکمیلی :
 + این تمرین باید بصورت فردی پیاده سازی شود.
 + بستر پیاده سازی پروژه روی گیت‌هاب می‌باشد.
++ پیاده‌سازی شما باید شامل کامیت‌های متفاوت باشد.
 + استفاده از زبان‌های غیر از Cpp, Java و مجاز نیست.
 
 
