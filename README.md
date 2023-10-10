@@ -49,9 +49,11 @@
   + remove i
 + get(i): Returns the i-th element of the list.
   + get i
-
 <div dir='rtl' align="right">
 توجه کنید که توابع شما باید از طریق دستوراتی که زیر هر تابع نوشته شده قابل دسترسی باشند.
+
+برای فهم بیشتر فایل example_input, example_output را بررسی کنید.
+
 
 ### گام دوم:
 درباره لینک‌لیست دو طرفه در زبان برنامه‌نویسی Java (معادل LinkedList) و زبان برنامه‌نویسی Cpp (معادل list) مطالعه کنید و آن‌ها را مورد بررسی قرار دهید.
